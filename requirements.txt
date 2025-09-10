@@ -1,0 +1,3 @@
+wakeonlan
+python-dotenv
+python-telegram-bot
