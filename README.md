@@ -71,7 +71,7 @@ ipconfig /all
 
 **Linux/macOS:**
 ```bash
-ifconfig
+ip a
 ```
 
 ### Создание Telegram-бота
