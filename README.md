@@ -20,11 +20,12 @@
 
 1. **Клонируйте репозиторий:**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/ada-dmitry/remote-control
    cd remote-control
    ```
 
 2. **Установите зависимости:**
+> Рекомендуется использование виртуального окружения Pyvenv.
    ```bash
    pip install -r requirements.txt
    ```
@@ -40,6 +41,8 @@
    ```bash
    python main.py
    ```
+
+4.1. По необходимости, можно добавить бота в systemd.
 
 ## ⚙️ Настройка
 
